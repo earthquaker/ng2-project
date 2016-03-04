@@ -1,12 +1,12 @@
 # ng2-project
 
-#### install
+##### install
 npm install
 
-#### start server
+##### start server
 npm start
 
-### view in browser
+##### view in browser
 [http://0.0.0.0:3000](http://0.0.0.0:3000) or [http://localhost:3000](http://localhost:3000)
 
 # License
