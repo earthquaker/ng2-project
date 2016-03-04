@@ -1,12 +1,12 @@
-### Run
+### ng2FireShop
 
-# install the repo with npm
+### install
 npm install
 
-# start the server
+### start the server
 npm start
 
-go to [http://0.0.0.0:3000](http://0.0.0.0:3000) or [http://localhost:3000](http://localhost:3000) in your browser
+go to [http://0.0.0.0:3000](http://0.0.0.0:3000) or [http://localhost:3000](http://localhost:3000)
 
 
 ## File Structure
