@@ -10,7 +10,7 @@ var ENV = process.env.ENV = process.env.NODE_ENV = 'development';
 var HMR = process.argv.join('').indexOf('hot') > -1;
 
 var metadata = {
-  title: 'Angular2 Webpack Starter by @gdi2990 from @AngularClass',
+  title: 'ng2-project: Elias H',
   baseUrl: '/',
   host: 'localhost',
   port: 3000,

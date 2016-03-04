@@ -71,7 +71,7 @@ import {Home} from './home/home';
 ])
 export class App {
   angularclassLogo = 'assets/img/angularclass-avatar.png';
-  name = 'Angular 2 Webpack Starter';
+  name = 'Elias H';
   url = 'https://twitter.com/AngularClass';
   constructor() {
 
