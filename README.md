@@ -12,5 +12,5 @@ npm start
 # Boilerplate
 [Angular2-Webpack-Starter](https://github.com/AngularClass/angular2-webpack-starter)
 
-# License
+## License
 [MIT](/LICENSE)
