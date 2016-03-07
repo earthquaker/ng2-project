@@ -3,7 +3,7 @@ import {Http} from 'angular2/http';
 
 @Injectable()
 export class Title {
-  value = 'Angular 2';
+  value = 'Angular2';
   constructor(public http: Http) {
 
   }
